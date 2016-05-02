@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./horaceodesepodeshora00rich_0475.png"; bbox 0 0 2163 3345; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 846 1375 1369 1463">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 846 1375 1369 1463">
+     <span class='ocr_line' id='line_1_1' title="bbox 846 1375 1369 1463; baseline -0.013 0"><span class='ocrx_word' id='word_1_1' title='bbox 846 1375 1369 1463; x_wconf 45' lang='lat' dir='ltr'><strong>&amp;Estfissffiffezzss</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 490 2160 1841 2209">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 490 2160 1841 2209">
+     <span class='ocr_line' id='line_1_2' title="bbox 490 2160 1841 2209; baseline -0.004 0"><span class='ocrx_word' id='word_1_2' title='bbox 490 2164 614 2208; x_wconf 85' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 644 2162 1019 2209; x_wconf 82' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1048 2162 1132 2209; x_wconf 79' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1160 2161 1543 2207; x_wconf 77' lang='lat' dir='ltr'><strong>CALIFORNIA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1570 2160 1841 2205; x_wconf 79' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 686 2444 1711 2508">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 686 2444 1711 2508">
+     <span class='ocr_line' id='line_1_3' title="bbox 686 2444 1711 2508; baseline -0.006 -1"><span class='ocrx_word' id='word_1_7' title='bbox 686 2444 1711 2508; x_wconf 62' lang='lat' dir='ltr'><strong>Gfiufinnt1JBRARY-1LG.BERKELEY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 730 2611 1686 2767">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 730 2611 1686 2767">
+     <span class='ocr_line' id='line_1_4' title="bbox 730 2611 1686 2767; baseline -0.006 0"><span class='ocrx_word' id='word_1_8' title='bbox 730 2611 1686 2767; x_wconf 62' lang='lat' dir='ltr'><strong>1mul!1111nulnusum¹111!uinlimuuululnumt</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 943 2786 1429 2843">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 943 2786 1429 2843">
+     <span class='ocr_line' id='line_1_5' title="bbox 943 2786 1429 2843; baseline -0.004 0"><span class='ocrx_word' id='word_1_9' title='bbox 943 2786 1429 2843; x_wconf 62' lang='lat'>3000310350</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
